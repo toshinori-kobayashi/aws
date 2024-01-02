@@ -85,4 +85,3 @@ resource "aws_instance" "sample_ec2" {
     Name = "sample-ec2"
   }
 }
-
