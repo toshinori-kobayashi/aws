@@ -1,3 +1,1 @@
-# aws
-# test
-# 20230615
+# terraform検証
